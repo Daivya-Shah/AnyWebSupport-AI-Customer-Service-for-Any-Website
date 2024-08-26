@@ -1,0 +1,7 @@
+{
+    "chatbotTitle": "AnyWebSupport AI",
+    "greeting": "Hi! I'm AnyWebSupport AI. How can I help you today?",
+    "error": "I'm sorry, but I encountered an error. Please try again later.",
+    "typing": "AnyWebSupport AI is Web Scraping...",
+    "typeMessage": "Type your message"
+}
