@@ -367,7 +367,7 @@ export default function Home() {
 
           <IconButton
             onClick={sendMessage}
-            disabled={isLoading || !message.trim() || !url.trim()}
+            disabled={isLoading || !message.trim()}
             size="large"
             sx={{
               borderRadius: 12,
