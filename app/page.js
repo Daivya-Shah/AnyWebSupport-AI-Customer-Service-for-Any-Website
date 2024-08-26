@@ -58,7 +58,7 @@ export default function HomePage() {
       {/* Content */}
       <Container maxWidth="lg" sx={{ position: 'relative', zIndex: 2 }}>
         <Typography
-          variant="h2"
+          variant="h4"
           component="h1"
           sx={{
             fontWeight: 'bold',
