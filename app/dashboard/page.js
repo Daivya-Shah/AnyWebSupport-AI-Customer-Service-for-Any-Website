@@ -349,10 +349,10 @@ export default function Home() {
                   borderColor: 'transparent', // Make the default border transparent
                 },
                 '&:hover fieldset': {
-                  borderColor: '#0288D1', // Set hover border color
+                  borderColor: '#00BFA5', // Set hover border color
                 },
                 '&.Mui-focused fieldset': {
-                  borderColor: '#0288D1', // Set focus border color
+                  borderColor: '#00BFA5', // Set focus border color
                 },
               },
               '& .MuiInputBase-input': {
